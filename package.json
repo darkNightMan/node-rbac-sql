@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "body-parser": "^1.19.0",
-    "body-parser-xml": "^1.1.0",
+    "body-parser-xml": "^2.0.3",
     "colors": "^1.4.0",
     "cookie-parser": "^1.4.5",
     "cross-env": "^7.0.2",
